@@ -15,7 +15,7 @@
 
 <div><p>My profile overview: </p></div>
 
-![Mayank's github stats](https://github-readme-stats.vercel.app/api?username=ApurvShah007&show_icons=true)
+![Mayank's github stats](https://github-readme-stats.vercel.app/api?username=mayank-rakesh-mck&show_icons=true)
 <br />
 <br />
 <br />
