@@ -3,7 +3,7 @@
  <h2 align="center">MAYANK RAKESH's GITHUB</h2>
 </p>
 
-### Hi there 👋 I am Mayank Rakesh
+### Hi there 👋 I am Mayank Rakesh, a ML Research Engineer.
 
 <br />
 <br />
